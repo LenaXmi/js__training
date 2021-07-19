@@ -1,3 +1,4 @@
+
 let string = 'Hi! I am string';
 console.log(string);
 console.log(typeof string);

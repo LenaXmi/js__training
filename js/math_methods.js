@@ -47,4 +47,3 @@ console.log(method);
 
 method = Math.random() * (b - c) + c;
 console.log(method);
-

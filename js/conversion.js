@@ -97,4 +97,3 @@ toBoolean = Boolean(value);
 console.log(`${value}, через двойное отрицание(!!):`, toBoolean);
 console.log(`Тип данных ${value}, через двойное отрицание(!!):`, typeof toBoolean);
 
-

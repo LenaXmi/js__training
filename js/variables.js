@@ -1,4 +1,4 @@
-//declaring variables
+-//declaring variables
 
 console.log(firstVar); //undefined
 var firstVar = "Hey!"
@@ -26,4 +26,3 @@ console.log(nothing);
 // null, undefined - gray in the console
 // number - blue in the console
 // string - black in the console
-
