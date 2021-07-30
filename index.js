@@ -8,5 +8,5 @@
 // import './js/cycle.js';
 // import './js/hw_02.js';
 // import './js/objects.js';
-import './js/product-cart.js';
+// import './js/product-cart.js';
 import './js/hw_03.js';
