@@ -1,0 +1,27 @@
+.tags {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+
+  list-style: none;
+}
+.tags__item:not(:last-child) {
+  margin-right: 10px;
+}
+
+.tags__btn {
+  max-width: 200px;
+  background-color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.tags__btn--active {
+  background-color: blue;
+  color: #fff;
+}

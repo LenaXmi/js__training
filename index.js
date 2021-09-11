@@ -14,5 +14,6 @@
 // import './js/callbacks.js';
 // import './js/proto.js';
 // import './js/hw_05.js';
-import './js/arr_methods.js';
-import './js/hw_06.js';
+// import './js/arr_methods.js';
+// import './js/hw_06.js';
+import './js/filter.js';
