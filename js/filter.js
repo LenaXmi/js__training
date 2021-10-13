@@ -25,3 +25,16 @@ function onButtonsListClick(e) {
     selectedTag = nextActiveBtn.dataset.value;
     console.log(selectedTag)
 }
+
+
+const date = new Date();
+console.log(date.getDay())
+
+console.log(date.getMonth())
+
+console.log( date.getFullYear())
+
+
+
+const dateNow = Date.now();
+console.log(dateNow)
