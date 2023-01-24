@@ -18,3 +18,4 @@
 // import './js/hw_06.js';
 // import './js/filter.js';
 import './js/async-await.js'
+import './js/fcc_tasks.js'
